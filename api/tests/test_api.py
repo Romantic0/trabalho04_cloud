@@ -1,3 +1,4 @@
+# Testes automatizados
 import pytest
 from api.app import app
 
